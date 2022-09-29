@@ -1,5 +1,21 @@
-.main-start-box {
+.main-start-header {
     z-index: 10;
+    position: fixed;
+    width: 70%;
+    height: 100%;
+    right: 0;
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+}
+
+.main-start-header img {
+    height: 5%;
+    margin: 10px;
+}
+
+.main-start-box {
+    z-index: 9;
     position: fixed;
     width: 70%;
     height: 100%;

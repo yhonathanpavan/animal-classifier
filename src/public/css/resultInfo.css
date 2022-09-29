@@ -1,0 +1,33 @@
+.resultInfo-header {
+    z-index: 10;
+    position: fixed;
+    width: 70%;
+    height: 100%;
+    right: 0;
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+}
+
+.resultInfo-header img {
+    height: 5%;
+    margin: 10px;
+}
+
+.resultInfo-box {
+    z-index: 9;
+    position: fixed;
+    width: 70%;
+    height: 100%;
+    right: 0;
+}
+
+.resultInfo-box img {
+    position: absolute;
+    height: 80%;
+    margin: auto;    
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

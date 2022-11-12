@@ -2,6 +2,6 @@
 
 ### To run the project, use the commands:
 ```
-npm i <br>
+npm i 
 node index.js 
 ```
